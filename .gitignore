@@ -1,0 +1,26 @@
+# Dataset
+*.jpg
+*.jpeg
+*.png
+*.dcm
+
+# Large files
+*.pt
+*.pth
+*.h5
+*.keras
+
+# Checkpoints
+checkpoints/
+
+# Google Colab
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+.venv/

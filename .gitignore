@@ -1,7 +1,6 @@
 # Dataset
 *.jpg
 *.jpeg
-*.png
 *.dcm
 
 # Large files

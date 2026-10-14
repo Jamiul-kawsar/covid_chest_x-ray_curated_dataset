@@ -1,0 +1,2 @@
+model,validation_loss,validation_accuracy,macro_roc_auc,Normal_roc_auc,Normal_specificity,COVID-19_roc_auc,COVID-19_specificity,Pneumonia_roc_auc,Pneumonia_specificity
+DenseNet121,0.11294158468202328,0.9659666908037654,0.9952066561158645,0.9931010788153645,0.9719416386083053,0.9977966428371179,0.9983179142136249,0.9947222466951112,0.9706744868035191

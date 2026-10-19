@@ -58,8 +58,6 @@ These are validation results, not test-set results. The training curves suggest 
 
 ![ResNet50 ROC Curve](experiments/resnet50_frozen_roc_curve.png)
 
-*Add your actual screenshots to `reports/figures/` using these filenames, or update the paths to match your files.*
-
 ## Technologies
 
 Python · PyTorch · Torchvision · NumPy · Pandas · Matplotlib · Scikit-learn · Kaggle Notebooks

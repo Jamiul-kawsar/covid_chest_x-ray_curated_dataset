@@ -70,7 +70,6 @@ Python · PyTorch · Torchvision · NumPy · Pandas · Matplotlib · Scikit-lear
 ├── configs/
 ├── experiments/
 ├── reports/
-│   └── figures/
 └── README.md
 ```
 
